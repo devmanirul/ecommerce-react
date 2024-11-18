@@ -1,4 +1,4 @@
-const ProductDetailsPage = () => {
+const ProductDetails = () => {
   return <div>ProductDetailsPage</div>;
 };
-export default ProductDetailsPage;
+export default ProductDetails;

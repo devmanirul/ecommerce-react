@@ -1,11 +1,9 @@
-import Header from "../../components/Shared/Header";
-import Navbar from "../../components/Shared/Navbar";
+import Banner from "../../components/Home/Banner";
 
 const Home = () => {
   return (
     <div>
-      <Header />
-      <Navbar />
+      <Banner />
     </div>
   );
 };
